@@ -4,3 +4,6 @@ https://lsrelay-l.s3.amazonaws.com/index.html
 https://cdn.jsdelivr.net/gh/ap5z/lucide-svg@latest/logo.svg#/
 
 https://cdn.jsdelivr.net/gh/coinbaselarper/svg@latest/logo.svg
+
+
+http://warthunder.com/en/registration?r=userinvite_211504282
