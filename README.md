@@ -3,4 +3,9 @@ https://storage.googleapis.com/lucide/index.html
 https://lsrelay-l.s3.amazonaws.com/index.html
 https://cdn.jsdelivr.net/gh/ap5z/lucide-svg@latest/logo.svg#/
 
-https://lucideon.top/
+
+@everyone
+
+new lucide link
+
+https://terbiumon.top/
